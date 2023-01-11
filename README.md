@@ -1,1 +1,0 @@
-# sawe-generator-biletow
